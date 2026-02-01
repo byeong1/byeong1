@@ -1,6 +1,23 @@
+<br/>
+
+## 안녕하세요, 배병일(byeong1)입니다.
+**BackEnd Developer(NodeJS) | FrontEnd Developer(Vue3)**
+
+## 🌱 모토 (Motto)
+ > **"무엇을 만드는지보다, 왜 만드는지가 더 중요합니다."**
+
+## 🧑‍💻 기술 스택?
+> AI가 발전하는 요즘같은 시대에 시간만 있다면, 어떤 언어나 프레임워크든 금방 익혀 쓸 수 있습니다. <strong>“내가 뭘 할 줄 아느냐”</strong>가 아니라 <strong>“문제를 어떻게 해결할 것인가? - Why?”</strong>가 더 중요하다 생각합니다.
+
+결국, 핵심은 **문제 해결 능력**과 **실행력**이라 생각합니다. 새로운 기술이 필요하면, **망설임 없이 배우고 도전하는 태도**가 더 중요하다 믿습니다.
+
+---
+
+
 <div align="center">
 
-  ## Tech Stack
+
+### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -22,15 +39,13 @@
 
 <br/>
 
- ## GitHub Stats
+### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=byeong1&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
 
-![GitHub stats](https://github-readme-stats-chaemin-l.vercel.app/api?username=byeong1&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
-
 <br/>
 
-## Connect With Me
+### 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:qoquddlf00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byeong1/)
