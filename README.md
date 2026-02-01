@@ -4,7 +4,7 @@
 
  ## 📊 GitHub Stats
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byeong1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=byeong1&layout=compact&theme=transparent&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats-chaemin-l.vercel.app/api?username=byeong1&show_icons=true&theme=transparent&hide_border=true)
 
