@@ -4,7 +4,7 @@
 </p>
 
 
-## 안녕하세요, 배병일(byeong1)입니다.
+# 안녕하세요, 배병일(byeong1)입니다.
 **BackEnd Developer(NodeJS) | FrontEnd Developer(Vue3)**
 
 ## 🌱 모토 (Motto)
