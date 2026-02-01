@@ -24,7 +24,7 @@
 
  ## GitHub Stats
 
-![Top Languages](https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=byeong1&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800))
+![Top Languages](https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=byeong1&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
 
 ![GitHub stats](https://github-readme-stats-chaemin-l.vercel.app/api?username=byeong1&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
 
