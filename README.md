@@ -7,7 +7,6 @@
 # 안녕하세요, 배병일(byeong1)입니다.
 **BackEnd Developer(NodeJS) | FrontEnd Developer(Vue3)**
 
-<br/>
 
 ## 🌱 모토 (Motto)
  > **"무엇을 만드는지보다, 왜 만드는지가 더 중요합니다."**
