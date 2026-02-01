@@ -1,6 +1,6 @@
 <!-- 메인 배너 이미지 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83876d36-f812-4139-a344-628547ca9eb8" alt="Main Banner" />
+  <img src="https://github.com/user-attachments/assets/c7717bd4-5489-4e60-b5b1-4e9a8cca4ce0" alt="Main Banner" />
 </p>
 
 
